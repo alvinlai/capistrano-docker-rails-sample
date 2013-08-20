@@ -1,0 +1,9 @@
+DOCKER_BIN=/usr/bin/docker
+DATABASE_URL=sqlite3://localhost/db/prod.sqlite3
+
+GROUP_A_NGINX_CONFIG=/rails_app_group_a.conf
+GROUP_B_NGINX_CONFIG=/rails_app_group_b.conf
+GROUP_A_NGINX_PORT=50080
+GROUP_B_NGINX_PORT=50081
+GROUP_A_RAILS_PORT=59292
+GROUP_B_RAILS_PORT=59293

@@ -1,0 +1,13 @@
+.DS_Store
+.bundle
+.env
+.idea
+.powenv
+.powrc
+.pryrc
+.rspec
+.rvmrc
+log/
+tmp/
+db/*.sqlite3
+*.swp
